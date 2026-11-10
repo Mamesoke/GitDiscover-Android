@@ -1,0 +1,30 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+build/
+/captures
+.externalNativeBuild/
+.cxx/
+
+# Android build artifacts and profiling output
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.hprof
+
+# Signing keys
+*.jks
+*.keystore
+
+# Reference project
+/reference/
