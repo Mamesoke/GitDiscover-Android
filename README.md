@@ -4,6 +4,10 @@ A small native Kotlin application for searching and exploring public GitHub
 repositories, built with Jetpack Compose and Material 3. It uses three layers,
 request cancellation, an in-memory cache and automated tests.
 
+
+https://github.com/user-attachments/assets/b747c2ea-6c65-4225-b200-061c8949e921
+
+
 > **Recorded verification as of November 10, 2026:** 38 JVM tests passed, along
 > with 9 instrumented tests on each emulator: Small Phone running Android 7.0 and
 > Pixel Tablet running Android 16. Lint and Debug/Release builds completed.
